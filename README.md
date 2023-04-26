@@ -1,1 +1,1 @@
-# Coursework Module: Coursework Module: Artificial Intelligence and Machine Learning with Python
+# Coursework Module: Artificial Intelligence and Machine Learning with Python
