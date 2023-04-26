@@ -7,7 +7,7 @@ of basic concepts in machine learning and artificial intelligence. We will look 
  - Optimization
  - Neural Networks
 
-The course content is adapted from the previous instructor's course [website] (https://naeemullah-khan.github.io/CWM2022/). 
+The course content is adapted from the previous instructor's course [website](https://naeemullah-khan.github.io/CWM2022/). 
                 
 ## Instructors
 
@@ -21,7 +21,7 @@ The course content is adapted from the previous instructor's course [website] (h
 
 - slides
 
-- [exercise 1] (https://colab.research.google.com/drive/1H7D2iToXuXRi7O0Ep0_BxLIgno1qs18G?usp=sharing)
+- [exercise 1](https://colab.research.google.com/drive/1H7D2iToXuXRi7O0Ep0_BxLIgno1qs18G?usp=sharing)
 
 - exercise 2
 
