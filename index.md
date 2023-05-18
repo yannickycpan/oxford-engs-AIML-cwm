@@ -7,7 +7,7 @@ of basic concepts in machine learning and artificial intelligence. We will look 
  - Optimization
  - Neural Networks
 
-The course content is adapted from Naeemullah Khan's course [website](https://naeemullah-khan.github.io/CWM2022/). 
+The course content is adapted from the previous instructor Naeemullah Khan's course. 
                 
 ## Instructors
 
@@ -24,26 +24,34 @@ On each day, before you leave, ask one of us to take a look at your exercise, an
 
 Assignments should be completed individually, however, discussion is encouraged.
 
-## Day-by-day syllabus
+## Syllabus
 
-### Day 1
+We will go through the following content in 5 days. 
 
-- slides
+- Introduction
 
-- [exercise 1](https://colab.research.google.com/drive/1H7D2iToXuXRi7O0Ep0_BxLIgno1qs18G?usp=sharing)
+- Background knowledge review: programming basics (OOD programming, ), math review
 
-- exercise 2
+- Coding exercise: Python Basics [[Numbers]](https://colab.research.google.com/drive/1_C-j_Ko4k4dd0JvXD-zIzJ3u_v4FX_Go?usp=sharing) [[Strings]](https://colab.research.google.com/drive/1Lxvgm_z3vFn7D0NTtX6fLJlRAbrm8IB8?usp=sharing) [[Lists]](https://colab.research.google.com/drive/153D37bBxnJhfxBh0T4yvemJcaDswbMey?usp=sharing)  [[Dictionaries]](https://colab.research.google.com/drive/18gJX55cKwZge3o5CyRjVuZ4jXCl9-RrO?usp=sharing)  [[Tuples]](https://colab.research.google.com/drive/1KQO0S9Y0Z8v_hDymqpRrpKRugyB2apOb?usp=sharing)  [[Conditionals]](https://colab.research.google.com/drive/1XCPvBY14y7wsdAG0yUDtkcPrVPDT9bcL?usp=sharing)  [[Numpy]](https://colab.research.google.com/drive/1CC4teplphG5o3GLbbx_6QJXMPDYZXZ9o?usp=sharing)  [[OOP]](https://colab.research.google.com/drive/1q99aO6dOzxD5Roqmb38MGOO37Jc4_MUO?usp=sharing)
 
-- exercise 3
-- exercise 3
-- exercise: Python Basics [[Numbers]](https://colab.research.google.com/drive/1_C-j_Ko4k4dd0JvXD-zIzJ3u_v4FX_Go?usp=sharing) [[Strings]](https://colab.research.google.com/drive/1Lxvgm_z3vFn7D0NTtX6fLJlRAbrm8IB8?usp=sharing) [[Lists]](https://colab.research.google.com/drive/153D37bBxnJhfxBh0T4yvemJcaDswbMey?usp=sharing)  [[Dictionaries]](https://colab.research.google.com/drive/18gJX55cKwZge3o5CyRjVuZ4jXCl9-RrO?usp=sharing)  [[Tuples]](https://colab.research.google.com/drive/1KQO0S9Y0Z8v_hDymqpRrpKRugyB2apOb?usp=sharing)  [[Conditionals]](https://colab.research.google.com/drive/1XCPvBY14y7wsdAG0yUDtkcPrVPDT9bcL?usp=sharing)  [[Numpy]](https://colab.research.google.com/drive/1CC4teplphG5o3GLbbx_6QJXMPDYZXZ9o?usp=sharing)  [[OOP]](https://colab.research.google.com/drive/1q99aO6dOzxD5Roqmb38MGOO37Jc4_MUO?usp=sharing)
+- Ordinary least squared regression
 
-### Day 2
+- Exercise 1
 
-### Day 3
-- exercise: [[Neural Network Exercise 1]](https://colab.research.google.com/drive/1vpFJZp400wOtp0dCswn8n1uVJfM3yJdS?usp=sharing) [[Neural Network Exercise 2]](https://colab.research.google.com/drive/1OIoyrzV0j67QIyaMMBNUgWDQdC-zMc8l?usp=sharing) [[Neural Network in Numpy]](https://colab.research.google.com/drive/1R5gxgo-A6YJhgXxGQf5eLriPG2N8sTcO?usp=sharing)
+- Logistic regression
 
-### Day 4
-- exercise: [[PyTorch Tutorial]](https://colab.research.google.com/drive/1NcUdNrq0Gt3hgCssEsykgmtj8wkmGErT?usp=sharing) [[Neural Network in PyTorch]](https://colab.research.google.com/drive/1NcUdNrq0Gt3hgCssEsykgmtj8wkmGErT?usp=sharing) [[CNN in Pytorch]](https://colab.research.google.com/drive/1-rnoqtwMkOSzieo-O3vfYpRI-AG7eAf2?usp=sharing)
-- 
-### Day 5
+- Exercise 2
+
+- Probability interpretation of regression, basics in generalized linear models
+
+- Exercise 3
+
+- Optimization: gradient-based optimization, gradient-free optimization
+
+- Exercise 4
+
+- Neural networks: CNN, RNN, and modern developments
+
+- Exercise 5: [[Neural Network Exercise 1]](https://colab.research.google.com/drive/1vpFJZp400wOtp0dCswn8n1uVJfM3yJdS?usp=sharing) [[Neural Network Exercise 2]](https://colab.research.google.com/drive/1OIoyrzV0j67QIyaMMBNUgWDQdC-zMc8l?usp=sharing) [[Neural Network in Numpy]](https://colab.research.google.com/drive/1R5gxgo-A6YJhgXxGQf5eLriPG2N8sTcO?usp=sharing)
+
+- Exercise 6: [[PyTorch Tutorial]](https://colab.research.google.com/drive/1NcUdNrq0Gt3hgCssEsykgmtj8wkmGErT?usp=sharing) [[Neural Network in PyTorch]](https://colab.research.google.com/drive/1NcUdNrq0Gt3hgCssEsykgmtj8wkmGErT?usp=sharing) [[CNN in Pytorch]](https://colab.research.google.com/drive/1-rnoqtwMkOSzieo-O3vfYpRI-AG7eAf2?usp=sharing)
