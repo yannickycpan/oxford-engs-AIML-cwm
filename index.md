@@ -1,3 +1,5 @@
+
+
 ## Introduction
 
 The course is about AI/ML with python. The course will provide a quick introduction to Python and the theoretical foundations 
