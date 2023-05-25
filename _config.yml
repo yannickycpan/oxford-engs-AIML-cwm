@@ -1,2 +1,8 @@
 name:Artificial Intelligence and Machine Learning with Python
 title:null
+
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+show_downloads: [false]
