@@ -23,7 +23,7 @@ We will interleave lecture and coding. We will use Google colab as the platform 
 
 Naming rules: for example, for exercise1, you should have: firstname-lastname-ex1.ipynb, firstname-lastname-ex1-bonus.ipynb (if available)
 
-Put all ex1.ipynb files into a zip file named as firstname-lastname.zip, and leave the bonus files separate. 
+Put firstname-lastname-ex1.ipynb, firstname-lastname-ex2.ipynb, ... files into a zip file named as firstname-lastname.zip, and leave the bonus files separate without zip them. 
 
 That is, in the end of the course, you should submit firstname-lastname.zip and firstname-lastname-ex1-bonus.ipynb, firstname-lastname-ex2-bonus.ipynb, etc. 
 
@@ -67,10 +67,10 @@ We will go through the following content in 5 days.
 
 ### Neural networks (prepared by Dr. Jindong Gu)
 
-- Exercise 5: [[Neural Network Exercise 1]](https://colab.research.google.com/drive/1vpFJZp400wOtp0dCswn8n1uVJfM3yJdS?usp=sharing) [[Neural Network Exercise 2]](https://colab.research.google.com/drive/1OIoyrzV0j67QIyaMMBNUgWDQdC-zMc8l?usp=sharing) [[Neural Network in Numpy]](https://colab.research.google.com/drive/1R5gxgo-A6YJhgXxGQf5eLriPG2N8sTcO?usp=sharing)
+- Exercise 5: 
 
-- Exercise 6: [[PyTorch Tutorial]](https://colab.research.google.com/drive/1NcUdNrq0Gt3hgCssEsykgmtj8wkmGErT?usp=sharing) [[Neural Network in PyTorch]](https://colab.research.google.com/drive/1NcUdNrq0Gt3hgCssEsykgmtj8wkmGErT?usp=sharing) [[CNN in Pytorch]](https://colab.research.google.com/drive/1-rnoqtwMkOSzieo-O3vfYpRI-AG7eAf2?usp=sharing)
+- Exercise 6: 
 
 ### Acknowledgement
 
-Exercise 1, 2 are adapted from the Previous instructor Naeemullah Khan's course.
+python basics and Exercise 1, 2 are adapted from the previous instructor Naeemullah Khan's course.
