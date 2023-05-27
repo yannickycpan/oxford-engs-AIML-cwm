@@ -41,9 +41,9 @@ At the end of each day, before leaving, please ask the instructor or TAs to revi
 
 ## Syllabus
 
-We will go through the following content in 5 days. 
+We will go through the following content in 5 days. We will use [[google colab]](https://colab.research.google.com/) as a platform for exercises. 
 
-### Course Intro & background review (prepared by Dr. Yangchen Pan)
+### Course Intro & background review
 
 - Course Introduction
 
@@ -51,7 +51,7 @@ We will go through the following content in 5 days.
 
 - Coding exercise: Python Basics [[Numbers]](https://colab.research.google.com/drive/1_C-j_Ko4k4dd0JvXD-zIzJ3u_v4FX_Go?usp=sharing) [[Strings]](https://colab.research.google.com/drive/1Lxvgm_z3vFn7D0NTtX6fLJlRAbrm8IB8?usp=sharing) [[Lists]](https://colab.research.google.com/drive/153D37bBxnJhfxBh0T4yvemJcaDswbMey?usp=sharing)  [[Dictionaries]](https://colab.research.google.com/drive/18gJX55cKwZge3o5CyRjVuZ4jXCl9-RrO?usp=sharing)  [[Tuples]](https://colab.research.google.com/drive/1KQO0S9Y0Z8v_hDymqpRrpKRugyB2apOb?usp=sharing)  [[Conditionals]](https://colab.research.google.com/drive/1XCPvBY14y7wsdAG0yUDtkcPrVPDT9bcL?usp=sharing)  [[Numpy]](https://colab.research.google.com/drive/1CC4teplphG5o3GLbbx_6QJXMPDYZXZ9o?usp=sharing)
 
-### Regression/classification (prepared by Dr. Yangchen Pan)
+### Regression/classification
 
 - Linear regression, Exercise 1: [[Linear regression]](https://drive.google.com/file/d/1Ru7fhHhV5uXO3bxAlgaaUTKrZNyW4Cyu/view?usp=drive_link)
 
