@@ -49,7 +49,9 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 - Course Introduction
 
-- Coding exercise: Python Basics [[intro]](https://colab.research.google.com/drive/1DHVIdXVouXhQmnusmR-JLGBqT2_TsxCF?usp=sharing) 
+- Colab/Markdown/latex intro [[env intro]](https://colab.research.google.com/drive/1DHVIdXVouXhQmnusmR-JLGBqT2_TsxCF?usp=sharing) 
+
+- Coding exercise: Python Basics 
 [[Strings]](https://colab.research.google.com/drive/16QB0e6reXr0aYg3QMJbb2Kjpd93cZ1qJ?usp=sharing)
 [[Lists]](https://colab.research.google.com/drive/1cHDaCeHUbNzV-zHpYPRBMNohL4dbxeqB?usp=sharing)
 [[Dictionaries]](https://colab.research.google.com/drive/1pofof5pxzbliUlgZOKAA5LdA6YMqGGuK?usp=sharing)
