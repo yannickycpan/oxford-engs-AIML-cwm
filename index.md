@@ -15,7 +15,7 @@ We will interleave lecture and coding. We will use Google colab as the platform 
 ## Instructors
 
 - Lab organizer: Dr. Yangchen Pan (Email: yangchen.eng.ox@gmail.com)
-- TAs: Dr. Jindong Gu, Dr. Alasdair Paren
+- TAs: Dr. Jindong Gu, Dr. Alasdair Paren, Shivani Mall (Ph.D. student)
 
 ## Course Policy
 
@@ -27,11 +27,13 @@ Put firstname-lastname-ex1.ipynb, firstname-lastname-ex2.ipynb, ... files into a
 
 That is, in the end of the course, you should submit firstname-lastname.zip and firstname-lastname-ex1-bonus.ipynb, firstname-lastname-ex2-bonus.ipynb, etc. 
 
+More submission instructions will be here before Friday. 
+
 ### Attendance
 
 At the end of each day, before leaving, please ask the instructor or TAs to review your completed exercises. After that, please sign the attendance sheet.
 
-### Assignments should be completed individually, however, discussion is encouraged.
+**Assignments should be completed individually, however, discussion is encouraged.**
 
 ### Break
 
