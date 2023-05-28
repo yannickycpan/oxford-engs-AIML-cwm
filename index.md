@@ -47,8 +47,6 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 - Course Introduction
 
-- Background knowledge review: [[math review]](https://colab.research.google.com/drive/1F9KRUyp2iryZYQ8Oi7psbExSlrBvEMo3?usp=sharing)
-
 - Coding exercise: Python Basics [[intro]](https://colab.research.google.com/drive/1DHVIdXVouXhQmnusmR-JLGBqT2_TsxCF?usp=sharing) 
 [[Strings]](https://colab.research.google.com/drive/16QB0e6reXr0aYg3QMJbb2Kjpd93cZ1qJ?usp=sharing)
 [[Lists]](https://colab.research.google.com/drive/1cHDaCeHUbNzV-zHpYPRBMNohL4dbxeqB?usp=sharing)
@@ -57,17 +55,19 @@ We will go through the following content in 5 days. We will use [[google colab]]
 [[Conditionals]](https://colab.research.google.com/drive/1XCPvBY14y7wsdAG0yUDtkcPrVPDT9bcL?usp=sharing)
 [[Numpy]](https://colab.research.google.com/drive/1N_LQdkRL-PrQqtrUtKOXDDRxKW7Whioh?usp=sharing)
 
+- Background knowledge review: [[math review]](https://colab.research.google.com/drive/1F9KRUyp2iryZYQ8Oi7psbExSlrBvEMo3?usp=sharing)
+
 - Optional content: [[OOP programming]](https://colab.research.google.com/drive/1q99aO6dOzxD5Roqmb38MGOO37Jc4_MUO?usp=sharing)
 
 ### Regression/classification
 
-- Linear regression, Exercise 1: [[Linear regression]](https://drive.google.com/file/d/1Ru7fhHhV5uXO3bxAlgaaUTKrZNyW4Cyu/view?usp=drive_link)
+- Linear regression, Exercise 1: [[Linear regression]](https://colab.research.google.com/drive/1rvxEVveKc6DKwKhrbl3A4hBM3sEq1QjR?usp=sharing)
 
 - Probability interpretation of regression
 
-- Logistic regression, Exercise 2 [[Logistic regression]](https://drive.google.com/file/d/1OU3Hp0E685G3odp6-8H0Llmn9z-0Osaa/view?usp=drive_link)
+- Logistic regression, Exercise 2 [[Logistic regression]](https://colab.research.google.com/drive/1uju-Djv8TOOw1lidxq_NamMuHycc83NF?usp=sharing)
 
-- Basics in generalized linear models (GLM), Exercise 3 [[GLM]](https://drive.google.com/file/d/1c5yNViFsjBAgb1oz-NU4o6-dL3dTdQY-/view?usp=drive_link)
+- Basics in generalized linear models (GLM), Exercise 3 [[GLM]](https://colab.research.google.com/drive/1NUfAtELpJfbtwob4kW04BPafRYVgrUf-?usp=sharing)
 
 ### Optimization (prepared by Dr. Alasdair Paren)
 
