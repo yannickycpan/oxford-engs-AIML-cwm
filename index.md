@@ -45,6 +45,8 @@ At the end of each day, before leaving, please ask the instructor or TAs to revi
 
 We will go through the following content in 5 days. We will use [[google colab]](https://colab.research.google.com/) as a platform for exercises. 
 
+**NOTE: for each colab file below, you should make a copy in your own google drive to edit & run.**
+
 ### Course Intro & background review
 
 - Course Introduction
