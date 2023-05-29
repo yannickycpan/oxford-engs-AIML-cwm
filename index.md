@@ -67,6 +67,8 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 ### Regression/classification
 
+[[temp meeting]](https://meet.google.com/zqi-oink-oag)
+
 - Linear regression, Exercise 1 [[Linear regression]](https://colab.research.google.com/drive/1rvxEVveKc6DKwKhrbl3A4hBM3sEq1QjR?usp=sharing)
 
 - Probability interpretation of regression
