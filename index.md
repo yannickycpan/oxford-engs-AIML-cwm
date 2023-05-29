@@ -71,6 +71,8 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 ### Regression/classification
 
+- Lecture [[slides]](https://drive.google.com/file/d/1OR4Z3hev58I2Mo2ygki8nK-NJbhPPHgi/view?usp=sharing)
+
 - Linear regression, Exercise 1 [[Linear regression]](https://colab.research.google.com/drive/1rvxEVveKc6DKwKhrbl3A4hBM3sEq1QjR?usp=sharing)
 
 - Probability interpretation of regression
