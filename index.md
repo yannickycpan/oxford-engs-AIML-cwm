@@ -47,7 +47,9 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 **NOTE 1: for each colab file below, you should make a copy in your own google drive to edit & run.**
 
-**NOTE 2: some questions are "optional"---you are encouraged to do but no bonus given. Bonus questions should be completed (almost) independently.**
+**NOTE 2: some questions are "optional"---you are suggested but not required to do, and doing them does not get bonus.**
+
+**NOTE 3: bonus questions should be completed (almost) independently.**
 
 ### Course Intro & background review
 
@@ -65,7 +67,7 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 - Background knowledge review: [[math review]](https://colab.research.google.com/drive/1F9KRUyp2iryZYQ8Oi7psbExSlrBvEMo3?usp=sharing)
 
-- Optional content: [[OOP programming]](https://colab.research.google.com/drive/1rWW_xM-Yv9tIyNGRF5QtWpjaCz0KajLu?usp=sharing)
+- Good to read: [[OOP programming]](https://colab.research.google.com/drive/1rWW_xM-Yv9tIyNGRF5QtWpjaCz0KajLu?usp=sharing)
 
 ### Regression/classification
 
