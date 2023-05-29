@@ -45,7 +45,9 @@ At the end of each day, before leaving, please ask the instructor or TAs to revi
 
 We will go through the following content in 5 days. We will use [[google colab]](https://colab.research.google.com/) as a platform for exercises. 
 
-**NOTE: for each colab file below, you should make a copy in your own google drive to edit & run.**
+**NOTE 1: for each colab file below, you should make a copy in your own google drive to edit & run.**
+
+**NOTE 2: some questions are "optional"---you are encouraged to do but no bonus given. Bonus questions should be completed (almost) independently.**
 
 ### Course Intro & background review
 
@@ -66,8 +68,6 @@ We will go through the following content in 5 days. We will use [[google colab]]
 - Optional content: [[OOP programming]](https://colab.research.google.com/drive/1rWW_xM-Yv9tIyNGRF5QtWpjaCz0KajLu?usp=sharing)
 
 ### Regression/classification
-
-[[temp meeting]](https://meet.google.com/zqi-oink-oag)
 
 - Linear regression, Exercise 1 [[Linear regression]](https://colab.research.google.com/drive/1rvxEVveKc6DKwKhrbl3A4hBM3sEq1QjR?usp=sharing)
 
