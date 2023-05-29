@@ -87,7 +87,7 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 - Neural Network Numpy [Exercise]
 
-- Pytorch Tutorial 
+- Pytorch Tutorial [Tutorial]
 
 - Neural Network Pytorch [Exercise]
 
