@@ -83,9 +83,15 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 ### Neural networks (prepared by Dr. Jindong Gu)
 
-- Exercise 6: 
+- Slides for Neural networks [[PDF]](https://drive.google.com/file/d/1d7RFeJ9n5VrTMrdBliApZEXIrkX52vq2/view)
 
-- Exercise 7: 
+- Neural network Numpy [Exercise]
+
+- Pytorch Tutorial 
+
+- Neural network Pytorch [Exercise]
+
+- Convolutional Neural network Pytorch [Exercise]
 
 ### Acknowledgement
 
