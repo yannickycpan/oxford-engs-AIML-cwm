@@ -77,9 +77,9 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 ### Optimization (prepared by Dr. Alasdair Paren)
 
-- Exercise 4
+- Exercise 4 [[Non-Stochastic Optimization - Regression]](https://colab.research.google.com/drive/1EPulpOW-NTD636nWmQvYE4VsaFFlEo1y?usp=sharing)
 
-- Exercise 5
+- Exercise 5 [[Stochastic Optimization - Classification]](https://colab.research.google.com/drive/1RPdLruCBmRppRHvSDi963P_0dxBJjwWT?usp=sharing)
 
 ### Neural networks (prepared by Dr. Jindong Gu)
 
