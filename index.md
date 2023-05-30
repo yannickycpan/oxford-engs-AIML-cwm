@@ -80,7 +80,6 @@ We will go through the following content in 5 days. We will use [[google colab]]
 - Logistic regression, Exercise 2 [[Logistic regression]](https://colab.research.google.com/drive/1uju-Djv8TOOw1lidxq_NamMuHycc83NF?usp=sharing)
 
 - Basics in generalized linear models (GLM), Exercise 3 [[GLM]](https://colab.research.google.com/drive/1haTSgsIMBtkYZ0eqkL8hLuOVeppKFcyC?usp=sharing)
-  [[GLM-sol]](https://colab.research.google.com/drive/1_TYKcgxQHODwSMAn-LvB2dXmbRkmNcDb?usp=sharing)
 
 ### Optimization (prepared by Dr. Alasdair Paren)
 
