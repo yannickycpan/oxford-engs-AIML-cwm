@@ -67,7 +67,7 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 - Background knowledge review: [[math review]](https://colab.research.google.com/drive/1F9KRUyp2iryZYQ8Oi7psbExSlrBvEMo3?usp=sharing)
 
-- Good to read: [[OOP programming]](https://colab.research.google.com/drive/1rWW_xM-Yv9tIyNGRF5QtWpjaCz0KajLu?usp=sharing)
+<!-- Good to read: [[OOP programming]](https://colab.research.google.com/drive/1rWW_xM-Yv9tIyNGRF5QtWpjaCz0KajLu?usp=sharing) -->
 
 ### Regression/classification
 
