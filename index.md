@@ -91,13 +91,13 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 - Slides for Neural networks [[PDF]](https://drive.google.com/file/d/1d7RFeJ9n5VrTMrdBliApZEXIrkX52vq2/view)
 
-- Neural Network Numpy [Exercise]
+- Neural Network Numpy [[Exercise]](https://drive.google.com/file/d/1w9-3ap9Atw0R20yRSoo8UYpdq51qhKc6/view?usp=sharing)
 
-- Pytorch Tutorial [Tutorial]
+- Pytorch Tutorial [[Tutorial]](https://drive.google.com/file/d/1aE1byZvbGiLru_KYJfrsqfGlLawcZ1rk/view?usp=sharing)
 
-- Neural Network Pytorch [Exercise]
+- Neural Network Pytorch [[Exercise]](https://drive.google.com/file/d/1kvV-1DTSOXhvAS2o4pWtqecdFZrr7s3Z/view?usp=sharing)
 
-- Convolutional Neural Network Pytorch [Exercise]
+- Convolutional Neural Network Pytorch [[Exercise]](https://drive.google.com/file/d/1xUJQDcyLx04_oWcaBExvmL_Hz9Z2onwX/view?usp=sharing)
 
 ### Acknowledgement
 
