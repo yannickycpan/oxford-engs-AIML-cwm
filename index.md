@@ -39,6 +39,8 @@ Option 2: Send me the links to access the exercise. You should change the **auth
 
 **Deadline to submit: 5 pm June2nd. If you do not work on any optional/bonus questions, then you do not need to submit anything.**
 
+**You are strongly encouraged to submit feedbacks to us:** [[feedback link]](https://bit.ly/OXUNICWM)
+
 ### Attendance
 
 At the end of each day, before leaving, please ask the instructor or TAs to review your completed exercises. After that, please sign the attendance sheet.
