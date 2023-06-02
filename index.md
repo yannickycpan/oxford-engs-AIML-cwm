@@ -21,13 +21,23 @@ We will interleave lecture and coding. We will use Google colab as the platform 
 
 ### Grading
 
-Naming rules: for example, for exercise1, you should have: firstname-lastname-ex1.ipynb, firstname-lastname-ex1-bonus.ipynb (if available)
+Naming rules: for example, for exercise1, you may have: firstname-lastname-ex1-bonus.ipynb (please put optional questions in the same file)
 
+<!-- 
 Put firstname-lastname-ex1.ipynb, firstname-lastname-ex2.ipynb, ... files into a zip file named as firstname-lastname.zip, and leave the bonus files separate without zip them. 
 
-That is, in the end of the course, you should submit firstname-lastname.zip and firstname-lastname-ex1-bonus.ipynb, firstname-lastname-ex2-bonus.ipynb, etc. 
+That is, in the end of the course, you should submit firstname-lastname.zip and firstname-lastname-ex1-bonus.ipynb, firstname-lastname-ex2-bonus.ipynb, etc. (please put the optional and bonus in the same file).
+-->
 
-More submission instructions will be here before Friday. 
+Option 1: Submit those files containing optional/bonus questions to my email as attachment. 
+
+Option 2: Send me the links to access the exercise. You should change the **authorization of accessing your colab file** to "anyone with the link."
+
+**Email: yangchen.eng.ox@gmail.com**. Please make sure the files are named correctly as specified above. 
+
+**Email subject line: Firstname-Lastname-June2nd**
+
+**Deadline to submit: 5 pm June2nd. If you do not work on any optional/bonus questions, then you do not need to submit anything.**
 
 ### Attendance
 
@@ -50,6 +60,8 @@ We will go through the following content in 5 days. We will use [[google colab]]
 **NOTE 2: some questions are "optional"---you are suggested but not required to do, and doing them does not get bonus.**
 
 **NOTE 3: bonus questions should be completed (almost) independently.**
+
+**NOTE 4: students registering in the session starting from June 5th should NOT work on below exercises as there could be nontrivial update.**
 
 ### Course Intro & background review
 
