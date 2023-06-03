@@ -27,13 +27,15 @@ Naming rules: for example, for exercise1, you may have: firstname-lastname-ex1.i
 Put firstname-lastname-ex1.ipynb, firstname-lastname-ex2.ipynb, ... files into a zip file named as firstname-lastname.zip, and leave the bonus files separate without zip them. 
 
 That is, in the end of the course, you should submit firstname-lastname.zip and firstname-lastname-ex1-bonus.ipynb, firstname-lastname-ex2-bonus.ipynb, etc. (please put the optional and bonus in the same file).
--->
 
 Option 1: Submit those files containing optional/bonus questions to my email as attachment. 
 
 Option 2: Send me the links to access the exercise. You should change the **authorization of accessing your colab file** to "anyone with the link."
+-->
 
 **Email: yangchen.eng.ox@gmail.com**. Please make sure the files are named correctly as specified above. 
+
+Detailed submission instructions will be here on Friday. 
 
 ### Attendance
 
@@ -53,7 +55,7 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 **NOTE 1: for each colab file below, you should make a copy in your own google drive to edit & run.**
 
-**NOTE 2: some questions are "optional"---you are suggested but not required to do, and doing them does not get bonus.**
+**NOTE 2: some questions are "optional"---you are suggested but not required to do.**
 
 **NOTE 3: Students registering for the Week 7 session should not work on the exercises below without prior notice, as there might be significant updates.**
 
