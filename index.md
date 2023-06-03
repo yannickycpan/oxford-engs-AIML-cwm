@@ -21,7 +21,7 @@ We will interleave lecture and coding. We will use Google colab as the platform 
 
 ### Grading
 
-Naming rules: for example, for exercise1, you may have: firstname-lastname-ex1-bonus.ipynb (please put optional questions in the same file)
+Naming rules: for example, for exercise1, you may have: firstname-lastname-ex1.ipynb
 
 <!-- 
 Put firstname-lastname-ex1.ipynb, firstname-lastname-ex2.ipynb, ... files into a zip file named as firstname-lastname.zip, and leave the bonus files separate without zip them. 
@@ -34,12 +34,6 @@ Option 1: Submit those files containing optional/bonus questions to my email as 
 Option 2: Send me the links to access the exercise. You should change the **authorization of accessing your colab file** to "anyone with the link."
 
 **Email: yangchen.eng.ox@gmail.com**. Please make sure the files are named correctly as specified above. 
-
-**Email subject line: Firstname-Lastname-June2nd**
-
-**Deadline to submit: 5 pm June2nd. If you do not work on any optional/bonus questions, then you do not need to submit anything.**
-
-**You are strongly encouraged to submit feedbacks to us:** [[feedback link]](https://bit.ly/OXUNICWM)
 
 ### Attendance
 
@@ -61,9 +55,7 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 **NOTE 2: some questions are "optional"---you are suggested but not required to do, and doing them does not get bonus.**
 
-**NOTE 3: bonus questions should be completed (almost) independently.**
-
-**NOTE 4: students registering in the session starting from June 5th should NOT work on below exercises as there could be nontrivial update.**
+**NOTE 3: Students registering for the Week 7 session should not work on the exercises below without prior notice, as there might be significant updates.**
 
 ### Course Intro & background review
 
@@ -85,7 +77,7 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 ### Regression/classification
 
-- Lecture [[slides]](https://drive.google.com/file/d/1OR4Z3hev58I2Mo2ygki8nK-NJbhPPHgi/view?usp=sharing)
+- Linear Models Lecture [[slides]](https://drive.google.com/file/d/1OR4Z3hev58I2Mo2ygki8nK-NJbhPPHgi/view?usp=sharing)
 
 - Linear regression, Exercise 1 [[Linear regression]](https://colab.research.google.com/drive/1rvxEVveKc6DKwKhrbl3A4hBM3sEq1QjR?usp=sharing)
 
@@ -94,16 +86,6 @@ We will go through the following content in 5 days. We will use [[google colab]]
 - Logistic regression, Exercise 2 [[Logistic regression]](https://colab.research.google.com/drive/1uju-Djv8TOOw1lidxq_NamMuHycc83NF?usp=sharing)
 
 - Basics in generalized linear models (GLM), Exercise 3 [[GLM]](https://colab.research.google.com/drive/1haTSgsIMBtkYZ0eqkL8hLuOVeppKFcyC?usp=sharing) 
-
-### Optimization (prepared by Dr. Alasdair Paren)
-
-- Optimisation Lecture [[slides]](https://drive.google.com/file/d/1iYME1MKRG--mrxfy0CINoz6C6dBmnUfg/view?usp=share_link)
-
-- Exercise 4 [[Non-Stochastic Optimization - Regression]](https://colab.research.google.com/drive/1EPulpOW-NTD636nWmQvYE4VsaFFlEo1y?usp=sharing)
-
-- Exercise 5 [[Stochastic Optimization - Classification]](https://colab.research.google.com/drive/1RPdLruCBmRppRHvSDi963P_0dxBJjwWT?usp=sharing)
-
-- Cross Entropy Gradient Derivation [[pdf - will take down on sunday]](https://drive.google.com/file/d/1-FkcoJV6sl7-TpgGz7kgxbbnb-Kfb8FN/view?usp=share_link)
 
 ### Neural networks (prepared by Dr. Jindong Gu)
 
@@ -116,6 +98,16 @@ We will go through the following content in 5 days. We will use [[google colab]]
 - Neural Network Pytorch [[Exercise]](https://drive.google.com/file/d/1kvV-1DTSOXhvAS2o4pWtqecdFZrr7s3Z/view?usp=sharing)
 
 - Convolutional Neural Network Pytorch [[Exercise]](https://drive.google.com/file/d/1xUJQDcyLx04_oWcaBExvmL_Hz9Z2onwX/view?usp=sharing)
+
+### Optimization (prepared by Dr. Alasdair Paren)
+
+- Optimisation Lecture [[slides]](https://drive.google.com/file/d/1iYME1MKRG--mrxfy0CINoz6C6dBmnUfg/view?usp=share_link)
+
+- Exercise 4 [[Non-Stochastic Optimization - Regression]](https://colab.research.google.com/drive/1EPulpOW-NTD636nWmQvYE4VsaFFlEo1y?usp=sharing)
+
+- Exercise 5 [[Stochastic Optimization - Classification]](https://colab.research.google.com/drive/1RPdLruCBmRppRHvSDi963P_0dxBJjwWT?usp=sharing)
+
+- Cross Entropy Gradient Derivation [[pdf - will take down on sunday]](https://drive.google.com/file/d/1-FkcoJV6sl7-TpgGz7kgxbbnb-Kfb8FN/view?usp=share_link)
 
 ### Acknowledgement
 
