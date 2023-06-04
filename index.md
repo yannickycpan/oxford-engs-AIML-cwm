@@ -81,13 +81,15 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 - Linear Models Lecture [[slides]]()
 
-- Linear regression, Exercise 1 [[Linear regression]](https://colab.research.google.com/drive/1rvxEVveKc6DKwKhrbl3A4hBM3sEq1QjR?usp=sharing)
+- Linear regression, [[Exercise 1]](https://colab.research.google.com/drive/1rvxEVveKc6DKwKhrbl3A4hBM3sEq1QjR?usp=sharing) [[Exercise 1-conti]](https://colab.research.google.com/drive/1ZRgz9IXybPCmZxxyXtjhQCZBAt_drSzW?usp=sharing)
 
 - Probability interpretation of regression
 
-- Logistic regression, Exercise 2 [[Logistic regression]](https://colab.research.google.com/drive/1uju-Djv8TOOw1lidxq_NamMuHycc83NF?usp=sharing)
+- Logistic regression, [[Exercise 2]](https://colab.research.google.com/drive/1uju-Djv8TOOw1lidxq_NamMuHycc83NF?usp=sharing)
 
-- Basics in generalized linear models (GLM), Exercise 3 [[GLM]](https://colab.research.google.com/drive/1haTSgsIMBtkYZ0eqkL8hLuOVeppKFcyC?usp=sharing) 
+- Generalized linear models (GLM), [[Exercise 3]](https://colab.research.google.com/drive/1haTSgsIMBtkYZ0eqkL8hLuOVeppKFcyC?usp=sharing)
+
+- Quick review on object-oriented programming
 
 ### Neural networks (prepared by Dr. Jindong Gu)
 
