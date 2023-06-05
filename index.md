@@ -79,7 +79,7 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 ### Regression/classification
 
-- Linear Models Lecture [[slides]]()
+- Linear Models Lecture [[slides]](https://drive.google.com/file/d/1Ow_0KHG__Dp6ZWc82x-LOvAJAXDbvmxQ/view?usp=sharing)
 
 - Linear regression, [[Exercise 1]](https://colab.research.google.com/drive/1rvxEVveKc6DKwKhrbl3A4hBM3sEq1QjR?usp=sharing) [[Exercise 1-conti]](https://colab.research.google.com/drive/1ZRgz9IXybPCmZxxyXtjhQCZBAt_drSzW?usp=sharing)
 
