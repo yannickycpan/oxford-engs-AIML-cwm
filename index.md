@@ -115,4 +115,4 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 ### Acknowledgement
 
-python basics and Exercise 1, 2 are adapted from the previous instructor Naeemullah Khan's course.
+python basics are adapted from the previous instructor Naeemullah Khan's course.
