@@ -89,7 +89,7 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 - Generalized linear models (GLM), [[Exercise 3]](https://colab.research.google.com/drive/1haTSgsIMBtkYZ0eqkL8hLuOVeppKFcyC?usp=sharing)
 
-- Quick review on object-oriented programming
+- Quick review on object-oriented programming [[OOP reading]](https://colab.research.google.com/drive/1rWW_xM-Yv9tIyNGRF5QtWpjaCz0KajLu?usp=sharing)
 
 ### Neural networks (prepared by Dr. Jindong Gu)
 
