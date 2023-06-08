@@ -111,7 +111,7 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 - Exercise 5 [[Stochastic Optimization - Classification]](https://colab.research.google.com/drive/1RPdLruCBmRppRHvSDi963P_0dxBJjwWT?usp=sharing)
 
-<!-- - Cross Entropy Gradient Derivation [[pdf - will take down on sunday]](https://drive.google.com/file/d/1-FkcoJV6sl7-TpgGz7kgxbbnb-Kfb8FN/view?usp=share_link) -->
+<!-- - Cross Entropy Gradient Derivation [[pdf - will take down on sunday]](https://drive.google.com/file/d/1qomMLFbK4uiRLZvfJQ1Gk9ZH-v93yFEz/view?usp=drive_link) -->
 
 ### Acknowledgement
 
