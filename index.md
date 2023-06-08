@@ -105,7 +105,7 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 ### Optimization (prepared by Dr. Alasdair Paren)
 
-- Optimisation Lecture [[slides]](https://drive.google.com/file/d/1iYME1MKRG--mrxfy0CINoz6C6dBmnUfg/view?usp=share_link)
+- Optimisation Lecture [[slides]](https://drive.google.com/file/d/1eM_SjYgUpyzrEwB-i4hM5Zy21C4VieP7/view?usp=drive_link)
 
 - Exercise 4 [[Non-Stochastic Optimization - Regression]](https://colab.research.google.com/drive/1EPulpOW-NTD636nWmQvYE4VsaFFlEo1y?usp=sharing)
 
