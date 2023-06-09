@@ -25,7 +25,7 @@ Naming rules: for example, for exercise1, you may have: firstname-lastname-ex1.i
 
 **Email: yangchen.eng.ox@gmail.com**. Please make sure the files are named correctly as specified above. 
 
-Choose three exercise files in total to submit, one of them should be from optimization part. Please do not submit anything from the NN part, as the answers were already provided. 
+Choose three exercise files in total to submit, at least one of them should be from optimization part. Please do not submit anything from the NN part, as the answers were already provided. 
 
 **Email subject line**: Firstname-Lastname-CWMweek7
 
