@@ -23,19 +23,13 @@ We will interleave lecture and coding. We will use Google colab as the platform 
 
 Naming rules: for example, for exercise1, you may have: firstname-lastname-ex1.ipynb
 
-<!-- 
-Put firstname-lastname-ex1.ipynb, firstname-lastname-ex2.ipynb, ... files into a zip file named as firstname-lastname.zip, and leave the bonus files separate without zip them. 
-
-That is, in the end of the course, you should submit firstname-lastname.zip and firstname-lastname-ex1-bonus.ipynb, firstname-lastname-ex2-bonus.ipynb, etc. (please put the optional and bonus in the same file).
-
-Option 1: Submit those files containing optional/bonus questions to my email as attachment. 
-
-Option 2: Send me the links to access the exercise. You should change the **authorization of accessing your colab file** to "anyone with the link."
--->
-
 **Email: yangchen.eng.ox@gmail.com**. Please make sure the files are named correctly as specified above. 
 
-Detailed submission instructions will be here on Friday. 
+Choose three exercise files in total to submit, one of them should be from optimization part. Please do not submit anything from the NN part, as the answers were already provided. 
+
+**Email subject line**: Firstname-Lastname-CWMweek7
+
+Please include the **links** to access your file in your email, so make sure your file is authorized to view for anyone with the link. 
 
 ### Attendance
 
