@@ -65,11 +65,8 @@ We will go through the following content in 5 days. We will use [[google colab]]
 [[Lists]](https://colab.research.google.com/drive/1cHDaCeHUbNzV-zHpYPRBMNohL4dbxeqB?usp=sharing)
 [[Dictionaries]](https://colab.research.google.com/drive/1pofof5pxzbliUlgZOKAA5LdA6YMqGGuK?usp=sharing)
 [[Tuples]](https://colab.research.google.com/drive/1nqqTPS9GZYyQ9rdCPbMZFWoKdmjtFZv9?usp=sharing)
-[[Conditionals]](https://colab.research.google.com/drive/1XCPvBY14y7wsdAG0yUDtkcPrVPDT9bcL?usp=sharing)
 
 - Background knowledge review: [[math review]](https://colab.research.google.com/drive/1F9KRUyp2iryZYQ8Oi7psbExSlrBvEMo3?usp=sharing)
-
-<!-- Good to read: [[OOP programming]](https://colab.research.google.com/drive/1rWW_xM-Yv9tIyNGRF5QtWpjaCz0KajLu?usp=sharing) -->
 
 ### Regression/classification
 
@@ -87,25 +84,25 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 ### Neural networks (prepared by Dr. Jindong Gu)
 
-- Slides for Neural networks [[PDF]](https://drive.google.com/file/d/1d7RFeJ9n5VrTMrdBliApZEXIrkX52vq2/view)
+- Slides for Neural networks [[PDF]]()
 
-- Neural Network Numpy [[Exercise]](https://drive.google.com/file/d/1w9-3ap9Atw0R20yRSoo8UYpdq51qhKc6/view?usp=sharing) [[sol]](https://colab.research.google.com/drive/1doo2guLo7-MoQyP4UrHkJq9-_PgZdg6C?usp=sharing)
+- Neural Network Numpy [[Exercise]]()
 
-- Pytorch Tutorial [[Tutorial]](https://drive.google.com/file/d/1aE1byZvbGiLru_KYJfrsqfGlLawcZ1rk/view?usp=sharing)
+- Pytorch Tutorial [[Tutorial]]()
 
-- Neural Network Pytorch [[Exercise]](https://drive.google.com/file/d/1kvV-1DTSOXhvAS2o4pWtqecdFZrr7s3Z/view?usp=sharing) [[sol]](https://colab.research.google.com/drive/1qusxxDiSs49s3RB2p0OU5c3FPfkZilaw?usp=sharing)
+- Neural Network Pytorch [[Exercise]]() [[sol]]()
 
-- Convolutional Neural Network Pytorch [[Exercise]](https://drive.google.com/file/d/1xUJQDcyLx04_oWcaBExvmL_Hz9Z2onwX/view?usp=sharing) [[sol]](https://colab.research.google.com/drive/1fdeo_2soVtixGqriy994B9Fx8-gu0L9v?usp=sharing)
+- Convolutional Neural Network Pytorch [[Exercise]]() [[sol]]()
 
 ### Optimization (prepared by Dr. Alasdair Paren)
 
-- Optimisation Lecture [[slides]](https://drive.google.com/file/d/1eM_SjYgUpyzrEwB-i4hM5Zy21C4VieP7/view?usp=drive_link)
+- Optimisation Lecture [[slides]]()
 
-- Exercise 4 [[Non-Stochastic Optimization - Regression]](https://colab.research.google.com/drive/1EPulpOW-NTD636nWmQvYE4VsaFFlEo1y?usp=sharing)
+- Exercise 4 [[Non-Stochastic Optimization - Regression]]()
 
-- Exercise 5 [[Stochastic Optimization - Classification]](https://colab.research.google.com/drive/1RPdLruCBmRppRHvSDi963P_0dxBJjwWT?usp=sharing)
+- Exercise 5 [[Stochastic Optimization - Classification]]()
 
-<!-- - Cross Entropy Gradient Derivation [[pdf - will take down on sunday]](https://drive.google.com/file/d/1qomMLFbK4uiRLZvfJQ1Gk9ZH-v93yFEz/view?usp=drive_link) -->
+<!-- - Cross Entropy Gradient Derivation [[pdf - will take down on sunday]]() -->
 
 ### Acknowledgement
 
