@@ -15,7 +15,7 @@ We will interleave lecture and coding. We will use Google colab as the platform 
 ## Instructors
 
 - Lab organizer: Dr. Yangchen Pan (Email: yangchen.eng.ox@gmail.com)
-- TAs: Dr. Jindong Gu, Dr. Alasdair Paren, Shivani Mall (Ph.D. student)
+- TAs: TBD
 
 ## Course Policy
 
@@ -82,7 +82,7 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 - Quick review on object-oriented programming [[OOP reading]](https://colab.research.google.com/drive/1rWW_xM-Yv9tIyNGRF5QtWpjaCz0KajLu?usp=sharing)
 
-### Neural networks (prepared by Dr. Jindong Gu)
+### Neural networks
 
 - Slides for Neural networks [[PDF]]()
 
@@ -94,7 +94,7 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 - Convolutional Neural Network Pytorch [[Exercise]]() [[sol]]()
 
-### Optimization (prepared by Dr. Alasdair Paren)
+### Optimization
 
 - Optimisation Lecture [[slides]]()
 
@@ -103,7 +103,3 @@ We will go through the following content in 5 days. We will use [[google colab]]
 - Exercise 5 [[Stochastic Optimization - Classification]]()
 
 <!-- - Cross Entropy Gradient Derivation [[pdf - will take down on sunday]]() -->
-
-### Acknowledgement
-
-python basics are adapted from the previous instructor Naeemullah Khan's course.
