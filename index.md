@@ -67,7 +67,7 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 **NOTE 2: some questions are "optional"---you are suggested but not required to do.**
 
-**NOTE 3: Students registering for the Week 7 session should not work on the exercises below without prior notice, as there might be significant updates.**
+**NOTE 3: please do not work on the exercises below before your registered session officially starts, as there might be significant updates.**
 
 ### Course Intro & background review
 
