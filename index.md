@@ -8,6 +8,22 @@ The course will provide an overview of fundamental concepts and algorithms in ma
  - Optimization: convexity, (stochastic) gradient descent, momentum method, line search, second-order methods, gradient-free optimizations, etc.
  - Neural Networks: classic neural network architectures and training techniques using PyTorch and TensorFlow.
 
+### Learning outcomes
+
+The learning outcomes of my CWM AI/ML with python are:
+
+- Learn the fundamental concepts of machine learning
+- Gain hands-on experience implementing machine learning algorithms to solve real-world problems
+- Achieve a certain level of theoretical familiarity with machine learning algorithms to prepare for the next stage of study
+- Improve logic/mathematical thinking capabilities
+
+### Prerequisite
+
+There are only optional prerequisites, not mandatory ones, as the course is intended to be self-contained. Relevant programming and math backgrounds will be reviewed on the first day of the course.
+
+- A certain level of familiarity with Python is recommended but not mandatory, as it can typically be learned while working on the exercises.
+- Some math background is helpful: basic concepts in linear algebra, probability, and statistics, such as singular value decomposition, basis, and parameter estimation.
+
 ### Course format
 
 We will interleave lecture and coding. We will use Google colab as the platform to do exercises. 
@@ -25,7 +41,7 @@ Naming rules: for example, for exercise1, you may have: firstname-lastname-ex1.i
 
 **Email: yangchen.eng.ox@gmail.com**. Please make sure the files are named correctly as specified above. 
 
-Choose three exercise files in total to submit, at least one of them should be from optimization part. Please do not submit anything from the NN part, as the answers were already provided. 
+Choose three exercise files in total to submit, at least one of them should be from optimization part. 
 
 **Email subject line**: Firstname-Lastname-CWMweek7
 
@@ -82,6 +98,16 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 - Quick review on object-oriented programming [[OOP reading]](https://colab.research.google.com/drive/1rWW_xM-Yv9tIyNGRF5QtWpjaCz0KajLu?usp=sharing)
 
+### Optimization
+
+- Optimisation Lecture [[slides]]()
+
+- Exercise 4 [[Non-Stochastic Optimization - Regression]]()
+
+- Exercise 5 [[Stochastic Optimization - Classification]]()
+
+<!-- - Cross Entropy Gradient Derivation [[pdf - will take down on sunday]]() -->
+
 ### Neural networks
 
 - Slides for Neural networks [[PDF]]()
@@ -93,13 +119,3 @@ We will go through the following content in 5 days. We will use [[google colab]]
 - Neural Network Pytorch [[Exercise]]() [[sol]]()
 
 - Convolutional Neural Network Pytorch [[Exercise]]() [[sol]]()
-
-### Optimization
-
-- Optimisation Lecture [[slides]]()
-
-- Exercise 4 [[Non-Stochastic Optimization - Regression]]()
-
-- Exercise 5 [[Stochastic Optimization - Classification]]()
-
-<!-- - Cross Entropy Gradient Derivation [[pdf - will take down on sunday]]() -->
