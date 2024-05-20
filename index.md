@@ -102,9 +102,9 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 - Optimisation Lecture [[slides]]()
 
-- Exercise 4 [[Non-Stochastic Optimization - Regression]]()
+- Exercise 4 [[Non-Stochastic Optimization - Regression]](https://colab.research.google.com/drive/1Iq7j9nTXmBZXrfQ8F7bK_w8kF4zNW2oR?usp=sharing)
 
-- Exercise 5 [[Stochastic Optimization - Classification]]()
+- Exercise 5 [[Stochastic Optimization - Classification]](https://colab.research.google.com/drive/1MieVT6VKzHGZ2V4rnZTANRohPTLe5WR5?usp=sharing)
 
 <!-- - Cross Entropy Gradient Derivation [[pdf - will take down on sunday]]() -->
 
