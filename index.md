@@ -6,7 +6,7 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 
  - Regression/Classification Basics: Linear regression, logistic regression, probability interpretations, generalized linear models, etc.
  - Optimization: convexity, (stochastic) gradient descent, momentum method, line search, second-order methods, gradient-free optimizations, etc.
- - Neural Networks: classic neural network architectures and training techniques using PyTorch and TensorFlow.
+ - Neural Networks: classic neural network architectures and training techniques using PyTorch.
 
 ### Learning outcomes
 
