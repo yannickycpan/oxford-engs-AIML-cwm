@@ -87,23 +87,23 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 - Linear Models Lecture [[slides]](https://drive.google.com/file/d/1Ow_0KHG__Dp6ZWc82x-LOvAJAXDbvmxQ/view?usp=sharing)
 
-- Linear regression, [[Exercise 1]](https://colab.research.google.com/drive/1rvxEVveKc6DKwKhrbl3A4hBM3sEq1QjR?usp=sharing) [[Exercise 1-conti]](https://colab.research.google.com/drive/1ZRgz9IXybPCmZxxyXtjhQCZBAt_drSzW?usp=sharing)
+- Linear regression [[Exercise 1]](https://colab.research.google.com/drive/1rvxEVveKc6DKwKhrbl3A4hBM3sEq1QjR?usp=sharing) [[Exercise 1-conti]](https://colab.research.google.com/drive/1ZRgz9IXybPCmZxxyXtjhQCZBAt_drSzW?usp=sharing)
 
 - Probability interpretation of regression
 
-- Logistic regression, [[Exercise 2]](https://colab.research.google.com/drive/1uju-Djv8TOOw1lidxq_NamMuHycc83NF?usp=sharing)
+- Logistic regression [[Exercise 2]](https://colab.research.google.com/drive/1uju-Djv8TOOw1lidxq_NamMuHycc83NF?usp=sharing)
 
-- Generalized linear models (GLM), [[Exercise 3]](https://colab.research.google.com/drive/1haTSgsIMBtkYZ0eqkL8hLuOVeppKFcyC?usp=sharing)
+- Generalized linear models (GLM) [[Exercise 3]](https://colab.research.google.com/drive/1haTSgsIMBtkYZ0eqkL8hLuOVeppKFcyC?usp=sharing)
 
 ### Optimization
 
 - Optimisation Lecture [[slides]]()
 
-- Exercise 4 [[Non-Stochastic Optimization - Regression]](https://colab.research.google.com/drive/1Iq7j9nTXmBZXrfQ8F7bK_w8kF4zNW2oR?usp=sharing)
+- Non-Stochastic Optimization - Regression [[Exercise 4]](https://colab.research.google.com/drive/1Iq7j9nTXmBZXrfQ8F7bK_w8kF4zNW2oR?usp=sharing)
 
 - Pytorch Tutorial [[Tutorial]](https://drive.google.com/file/d/1rPcibL2BYn13alGV6VQydHUIwsJJML7n/view?usp=sharing)
 
-- Exercise 5 [[Stochastic Optimization - Classification]](https://colab.research.google.com/drive/1MieVT6VKzHGZ2V4rnZTANRohPTLe5WR5?usp=sharing)
+- Stochastic Optimization - Classification [[Exercise 5]](https://colab.research.google.com/drive/1MieVT6VKzHGZ2V4rnZTANRohPTLe5WR5?usp=sharing)
 
 ### Neural networks
 
@@ -111,8 +111,8 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 - Quick review on object-oriented programming [[OOP reading]](https://colab.research.google.com/drive/1rWW_xM-Yv9tIyNGRF5QtWpjaCz0KajLu?usp=sharing)
 
-- Neural Network Numpy [[Exercise]](https://drive.google.com/file/d/1Qj8NaNQP9qESKAZSwmE9lP8MCwocHPGP/view?usp=sharing)
+- Neural Network Numpy [[Exercise 6]](https://drive.google.com/file/d/1Qj8NaNQP9qESKAZSwmE9lP8MCwocHPGP/view?usp=sharing)
 
-- Neural Network Pytorch [[Exercise]](https://drive.google.com/file/d/1sHi7NM9eltuMk2E9msR7lho2YQ9Pe7Dq/view?usp=sharing) 
+- Neural Network Pytorch [[Exercise 7]](https://drive.google.com/file/d/1sHi7NM9eltuMk2E9msR7lho2YQ9Pe7Dq/view?usp=sharing) 
 
-- Convolutional Neural Network Pytorch [[Exercise]](https://drive.google.com/file/d/13-N_vlCr89e_gKTyabSQ-K8ebQoaHavF/view?usp=sharing) 
+- Convolutional Neural Network Pytorch [[Exercise 8]](https://drive.google.com/file/d/13-N_vlCr89e_gKTyabSQ-K8ebQoaHavF/view?usp=sharing) 
