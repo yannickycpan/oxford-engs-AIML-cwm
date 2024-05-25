@@ -97,7 +97,7 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 ### Optimization
 
-- Optimisation Lecture [[slides]]()
+- Optimisation Lecture [[slides]]() [[in-lecture exercise]](https://colab.research.google.com/drive/13GQ3s65UZ_UF1_KntIgjPAO7nsryjYva?usp=sharing)
 
 - Non-Stochastic Optimization - Regression [[Exercise 4]](https://colab.research.google.com/drive/1Iq7j9nTXmBZXrfQ8F7bK_w8kF4zNW2oR?usp=sharing)
 
@@ -107,7 +107,7 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 ### Neural networks
 
-- Slides for Neural networks [[PDF]]()
+- Neural networks Lecture [[slides]]()
 
 - Quick review on object-oriented programming [[OOP reading]](https://colab.research.google.com/drive/1rWW_xM-Yv9tIyNGRF5QtWpjaCz0KajLu?usp=sharing)
 
