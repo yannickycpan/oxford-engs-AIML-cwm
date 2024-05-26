@@ -49,7 +49,7 @@ I will announce what to submit later.
 
 ### Attendance
 
-At the end of each day, before leaving, please sign the attendance sheet.
+At the end of each day, before leaving, please check with the lab organizer and sign the attendance sheet.
 
 **Assignments should be completed individually, however, discussion is encouraged.**
 
