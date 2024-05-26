@@ -81,7 +81,7 @@ We will go through the following content in 5 days. We will use [[google colab]]
 [[Lists]](https://colab.research.google.com/drive/1cHDaCeHUbNzV-zHpYPRBMNohL4dbxeqB?usp=sharing)
 [[Tuples]](https://colab.research.google.com/drive/1nqqTPS9GZYyQ9rdCPbMZFWoKdmjtFZv9?usp=sharing)
 
-- Background knowledge review: [[math review]](https://colab.research.google.com/drive/1F9KRUyp2iryZYQ8Oi7psbExSlrBvEMo3?usp=sharing)
+- Background knowledge review: [[math review]](https://drive.google.com/file/d/1Ib_x0IvdfAyy2hAojudO1fLhNp7CY5aj/view?usp=sharing)
 
 ### Part I: Regression/classification linear models
 
