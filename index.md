@@ -41,15 +41,15 @@ Naming rules: for example, for exercise1, you may have: firstname-lastname-ex1.i
 
 **Email: yangchen.eng.ox@gmail.com**. Please make sure the files are named correctly as specified above. 
 
-Choose three exercise files in total to submit, at least one of them should be from optimization part. 
-
 **Email subject line**: Firstname-Lastname-CWMweek7
 
 Please include the **links** to access your file in your email, so make sure your file is authorized to view for anyone with the link. 
 
+I will announce what to submit later. 
+
 ### Attendance
 
-At the end of each day, before leaving, please ask the instructor or TAs to review your completed exercises. After that, please sign the attendance sheet.
+At the end of each day, before leaving, please sign the attendance sheet.
 
 **Assignments should be completed individually, however, discussion is encouraged.**
 
