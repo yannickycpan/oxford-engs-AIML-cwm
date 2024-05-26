@@ -83,7 +83,7 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 - Background knowledge review: [[math review]](https://colab.research.google.com/drive/1F9KRUyp2iryZYQ8Oi7psbExSlrBvEMo3?usp=sharing)
 
-### Regression/classification
+### Part I: Regression/classification linear models
 
 - Linear Models Lecture [[slides]](https://drive.google.com/file/d/1Ow_0KHG__Dp6ZWc82x-LOvAJAXDbvmxQ/view?usp=sharing)
 
@@ -95,7 +95,7 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 - Generalized linear models (GLM) [[Exercise 3]](https://colab.research.google.com/drive/1haTSgsIMBtkYZ0eqkL8hLuOVeppKFcyC?usp=sharing)
 
-### Optimization
+### Part II: Optimization
 
 - Optimisation Lecture [[slides]]() [[in-lecture exercise]](https://colab.research.google.com/drive/13GQ3s65UZ_UF1_KntIgjPAO7nsryjYva?usp=sharing)
 
@@ -105,7 +105,7 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 - Stochastic Optimization - Classification [[Exercise 5]](https://colab.research.google.com/drive/1MieVT6VKzHGZ2V4rnZTANRohPTLe5WR5?usp=sharing)
 
-### Neural networks
+### Part III: Neural networks
 
 - Neural networks Lecture [[slides]]()
 
