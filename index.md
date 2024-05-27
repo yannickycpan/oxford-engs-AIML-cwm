@@ -83,6 +83,8 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 - Background knowledge review: [[math review]](https://drive.google.com/file/d/1Ib_x0IvdfAyy2hAojudO1fLhNp7CY5aj/view?usp=sharing)
 
+- Quick Introduction to optimization: [[opt-notes]](https://drive.google.com/file/d/1PIJMmDag6xegG2z4izy3GMuCjA0RVNKt/view?usp=sharing) [[in-lecture exercise]](https://colab.research.google.com/drive/13GQ3s65UZ_UF1_KntIgjPAO7nsryjYva?usp=sharing)
+
 ### Part I: Regression/classification linear models
 
 - Linear Models Lecture [[slides]](https://drive.google.com/file/d/1883815DWK5v567D3jhm3Z7sDbnngQB0Z/view?usp=sharing)
@@ -97,7 +99,7 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 ### Part II: Optimization
 
-- Optimisation Lecture [[slides]]() [[in-lecture exercise]](https://colab.research.google.com/drive/13GQ3s65UZ_UF1_KntIgjPAO7nsryjYva?usp=sharing)
+- Optimisation Lecture [[slides]]() 
 
 - Non-Stochastic Optimization - Regression [[Exercise 4]](https://colab.research.google.com/drive/1Iq7j9nTXmBZXrfQ8F7bK_w8kF4zNW2oR?usp=sharing)
 
