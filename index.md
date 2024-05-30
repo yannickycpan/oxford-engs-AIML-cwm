@@ -41,7 +41,7 @@ Naming rules: for example, for exercise1, you may have: firstname-lastname-ex1.i
 
 **Email: yangchen.eng.ox@gmail.com**. Please make sure the files are named correctly as specified above. 
 
-**Email subject line**: Firstname-Lastname-CWMweek7
+**Email subject line**: Firstname-Lastname-CWMweek6
 
 Please include the **links** to access your file in your email, so make sure your file is authorized to view for anyone with the link. 
 
