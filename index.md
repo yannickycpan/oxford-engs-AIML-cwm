@@ -47,11 +47,13 @@ Please include the **links** to access your file in your email, so make sure you
 
 Please submit 8 completed questions, with at least 2 from Part I, 2 from Part II, and 1 from Part III, before 5 PM on June 2nd.
 
+**Assignments should be completed individually, however, discussion is encouraged.**
+
 ### Attendance
 
-At the end of each day, before leaving, please check with the lab organizer and sign the attendance sheet.
+1. Attendance is **mandatory** unless there are very special reasons. Any absences will be reported to the student office. 
 
-**Assignments should be completed individually, however, discussion is encouraged.**
+2. At the end of each day, before leaving, please check with the lab organizer and sign the attendance sheet.
 
 ### Break
 
