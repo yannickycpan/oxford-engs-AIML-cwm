@@ -45,7 +45,7 @@ Naming rules: for example, for exercise1, you may have: firstname-lastname-ex1.i
 
 Please include the **links** to access your file in your email, so make sure your file is authorized to view for anyone with the link. 
 
-I will announce what to submit later. 
+Please submit 8 completed questions, with at least 2 from Part I, 2 from Part II, and 1 from Part III, before 5 PM on June 2nd.
 
 ### Attendance
 
