@@ -41,11 +41,11 @@ Naming rules: for example, for exercise1, you may have: firstname-lastname-ex1.i
 
 **Email: yangchen.eng.ox@gmail.com**. Please make sure the files are named correctly as specified above. 
 
-**Email subject line**: Firstname-Lastname-CWMweek6
+**Email subject line**: Firstname-Lastname-CWMweek7
 
 Please include the **links** to access your file in your email, so make sure your file is authorized to view for anyone with the link. 
 
-Please submit 8 completed questions, with at least 2 from Part I, 2 from Part II, and 1 from Part III, before 5 PM on June 2nd.
+Submission guidelines will be made available later this week. 
 
 **Assignments should be completed individually, however, discussion is encouraged.**
 
