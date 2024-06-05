@@ -101,7 +101,7 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 ### Part II: Optimization
 
-- Optimisation Lecture [[slides]](https://drive.google.com/file/d/1zHBjyJJmJOrVdJ4qvb02PB1sMq42n1Ob/view?usp=sharing) 
+- Optimisation Lecture [[slides]](https://drive.google.com/file/d/1p1Cl-g6hi-RxsrSyi9N9udSVoKoyFoEI/view?usp=sharing) 
 
 - Non-Stochastic Optimization - Regression [[Exercise 4]](https://colab.research.google.com/drive/1Iq7j9nTXmBZXrfQ8F7bK_w8kF4zNW2oR?usp=sharing)
 
