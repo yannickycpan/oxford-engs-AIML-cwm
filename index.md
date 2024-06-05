@@ -105,7 +105,7 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 - Non-Stochastic Optimization - Regression [[Exercise 4]](https://colab.research.google.com/drive/1Iq7j9nTXmBZXrfQ8F7bK_w8kF4zNW2oR?usp=sharing)
 
-- Pytorch Tutorial [[Tutorial]](https://drive.google.com/file/d/1rPcibL2BYn13alGV6VQydHUIwsJJML7n/view?usp=sharing)
+- Pytorch Tutorial [[Tutorial]](https://drive.google.com/file/d/1-N7WfgcExl52M-CfAYIYKHtvJWRLdVLh/view?usp=sharing)
 
 - Stochastic Optimization - Classification [[Exercise 5]](https://colab.research.google.com/drive/1MieVT6VKzHGZ2V4rnZTANRohPTLe5WR5?usp=sharing)
 
