@@ -31,7 +31,7 @@ We will interleave lecture and coding. We will use Google colab as the platform 
 ## Instructors
 
 - Lab organizer: Dr. Yangchen Pan (Email: yangchen.eng.ox@gmail.com)
-- TAs: Jindong Gu, Zhiyao Luo, Kevin Sun
+- TAs: TBD
 
 ## Course Policy
 
