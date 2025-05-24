@@ -31,11 +31,11 @@ We will interleave lecture and coding. We will use Google colab as the platform 
 ## Instructors
 
 - Lab organizer: Dr. Yangchen Pan (Email: yangchen.eng.ox@gmail.com)
-- TAs: TBD
+- TAs: Runjia Li, Qizhen Ying.
 
 ## Course Policy
 
-### Grading
+### Grading (TBD later during the session)
 
 Naming rules: for example, for exercise1, you may have: firstname-lastname-ex1.ipynb
 
@@ -44,8 +44,6 @@ Naming rules: for example, for exercise1, you may have: firstname-lastname-ex1.i
 **Email subject line**: Firstname-Lastname-CWMweek7
 
 Please include the **links** to access your file in your email, so make sure your file is authorized to view for anyone with the link. 
-
-Please submit 9 completed questions, with at least 2 from Part I, 3 from Part II, and 1 from Part III, before 5 PM on June 8th.
 
 **Assignments should be completed individually, however, discussion is encouraged.**
 
@@ -57,7 +55,7 @@ Please submit 9 completed questions, with at least 2 from Part I, 3 from Part II
 
 ### Break
 
-1. Lunch break: 11:50 am - 1:20 pm
+1. Lunch break: 11:50 am - 1:30 pm
 
 2. Weds afternoon
 
@@ -71,6 +69,8 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 **NOTE 3: please do not work on the exercises below before your registered session officially starts, as there might be significant updates.**
 
+**NOTE 4: AI-based coding tools, such as ChatGPT, Copilot, and similar, are strictly forbidden in this lab. To turn it off, once you open a Colab file, go to Tools > Settings > AI Assistance > Hide Generative AI Features, and deselect the other options.**
+
 ### Course Intro & background review
 
 - Course Introduction
@@ -79,13 +79,12 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 - Coding exercise: Python Basics 
 [[Numpy]](https://colab.research.google.com/drive/1N_LQdkRL-PrQqtrUtKOXDDRxKW7Whioh?usp=sharing)
-[[Strings]](https://colab.research.google.com/drive/16QB0e6reXr0aYg3QMJbb2Kjpd93cZ1qJ?usp=sharing)
 [[Lists]](https://colab.research.google.com/drive/1cHDaCeHUbNzV-zHpYPRBMNohL4dbxeqB?usp=sharing)
 [[Tuples]](https://colab.research.google.com/drive/1nqqTPS9GZYyQ9rdCPbMZFWoKdmjtFZv9?usp=sharing)
 
-- Background knowledge review: [[math review]](https://drive.google.com/file/d/1Ib_x0IvdfAyy2hAojudO1fLhNp7CY5aj/view?usp=sharing)
+- Background knowledge review: [[math review]](https://drive.google.com/file/d/1MdbkYQJwyKjdzIlg5Vl6gTUSKvAtcXGd/view?usp=sharing)
 
-- Quick Introduction to optimization: [[opt-notes]](https://drive.google.com/file/d/1PIJMmDag6xegG2z4izy3GMuCjA0RVNKt/view?usp=sharing) [[in-lecture exercise]](https://colab.research.google.com/drive/13GQ3s65UZ_UF1_KntIgjPAO7nsryjYva?usp=sharing)
+- Quick Introduction to optimization: [[opt-notes]](https://drive.google.com/file/d/1uPF76D0Uxa2HLl5Kkl5Wo8hOXjwT8uWn/view?usp=sharing)
 
 ### Part I: Regression/classification linear models
 
