@@ -77,7 +77,7 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 - Colab/Markdown/latex intro [[env intro]](https://colab.research.google.com/drive/1DHVIdXVouXhQmnusmR-JLGBqT2_TsxCF?usp=sharing) 
 
-- Coding exercise: Python Basics 
+- Coding exercise: Python Basics
 [[Numpy]](https://colab.research.google.com/drive/1N_LQdkRL-PrQqtrUtKOXDDRxKW7Whioh?usp=sharing)
 [[Lists]](https://colab.research.google.com/drive/1cHDaCeHUbNzV-zHpYPRBMNohL4dbxeqB?usp=sharing)
 [[Tuples]](https://colab.research.google.com/drive/1nqqTPS9GZYyQ9rdCPbMZFWoKdmjtFZv9?usp=sharing)
@@ -88,7 +88,7 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 ### Part I: Regression/classification linear models
 
-- Linear Models Lecture [[slides]](https://drive.google.com/file/d/1883815DWK5v567D3jhm3Z7sDbnngQB0Z/view?usp=sharing)
+- Linear Models Lecture [[slides]](https://drive.google.com/file/d/1QOAtnLPSnka6KfGM5DKi51Hrm2oQ0Oq1/view?usp=sharing)
 
 - Linear regression [[Exercise 1]](https://colab.research.google.com/drive/1rvxEVveKc6DKwKhrbl3A4hBM3sEq1QjR?usp=sharing) [[Exercise 1-conti]](https://colab.research.google.com/drive/1ZRgz9IXybPCmZxxyXtjhQCZBAt_drSzW?usp=sharing)
 
