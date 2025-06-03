@@ -84,7 +84,7 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 - Background knowledge review: [[math review]](https://drive.google.com/file/d/1MdbkYQJwyKjdzIlg5Vl6gTUSKvAtcXGd/view?usp=sharing)
 
-- Quick Introduction to optimization: [[opt-notes]](https://drive.google.com/file/d/1uPF76D0Uxa2HLl5Kkl5Wo8hOXjwT8uWn/view?usp=sharing)
+- Quick Introduction to optimization: [[opt-notes]](https://drive.google.com/file/d/10t4vcagYf3ArNJ4OZIfawRfbQzscJO3R/view?usp=sharing)
 
 ### Part I: Regression/classification linear models
 
