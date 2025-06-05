@@ -37,14 +37,6 @@ We will interleave lecture and coding. We will use Google colab as the platform 
 
 ### Grading (TBD later during the session)
 
-Naming rules: for example, for exercise1, you may have: firstname-lastname-ex1.ipynb
-
-**Email: yangchen.eng.ox@gmail.com**. Please make sure the files are named correctly as specified above. 
-
-**Email subject line**: Firstname-Lastname-CWMweek7
-
-Please include the **links** to access your file in your email, so make sure your file is authorized to view for anyone with the link. 
-
 **Assignments should be completed individually, however, discussion is encouraged.**
 
 ### Attendance
