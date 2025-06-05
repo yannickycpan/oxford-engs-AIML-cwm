@@ -110,7 +110,7 @@ We will go through the following content in 5 days. We will use [[google colab]]
 
 ### Part III: Neural networks
 
-- Neural networks Lecture [[slides]](https://drive.google.com/file/d/19BJDPQ4PKu5a3hZ-TQ8c5Q4RJsG4J2bp/view?usp=drive_link)
+- Neural networks Lecture [[slides]](https://drive.google.com/file/d/1lSqdb_Q7xPIvQrw0vs4y67cbx_FVFioy/view?usp=sharing)
 
 - Quick review on object-oriented programming [[OOP reading]](https://colab.research.google.com/drive/1rWW_xM-Yv9tIyNGRF5QtWpjaCz0KajLu?usp=sharing)
 
