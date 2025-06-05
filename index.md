@@ -35,7 +35,9 @@ We will interleave lecture and coding. We will use Google colab as the platform 
 
 ## Course Policy
 
-### Grading (TBD later during the session)
+### Grading
+
+Submission guidelines will be sent through canvas announcement. 
 
 **Assignments should be completed individually, however, discussion is encouraged.**
 
