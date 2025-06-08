@@ -74,7 +74,6 @@ We will go through the following content in 5 days. We will use [[google colab]]
 - Coding exercise: Python Basics
 [[Numpy]](https://colab.research.google.com/drive/1N_LQdkRL-PrQqtrUtKOXDDRxKW7Whioh?usp=sharing)
 [[Lists]](https://colab.research.google.com/drive/1cHDaCeHUbNzV-zHpYPRBMNohL4dbxeqB?usp=sharing)
-[[Tuples]](https://colab.research.google.com/drive/1nqqTPS9GZYyQ9rdCPbMZFWoKdmjtFZv9?usp=sharing)
 
 - Background knowledge review: [[math review]](https://drive.google.com/file/d/1MdbkYQJwyKjdzIlg5Vl6gTUSKvAtcXGd/view?usp=sharing)
 
