@@ -37,7 +37,7 @@ We will interleave lecture and coding. We will use Google colab as the platform 
 
 ### Grading
 
-Submission guidelines will be sent through canvas announcement. 
+Submission guidelines will be sent through canvas announcement on Friday. 
 
 **Assignments should be completed individually, however, discussion is encouraged.**
 
