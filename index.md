@@ -19,10 +19,13 @@ The learning outcomes of my CWM AI/ML with python are:
 
 ### Prerequisite
 
-There are only optional prerequisites, not mandatory ones, as the course is intended to be self-contained. Relevant programming and math backgrounds will be reviewed on the first day of the course.
+While there are no formal mandatory prerequisites, the course assumes a solid willingness to engage with programming and mathematically rigorous material.
 
-- A certain level of familiarity with Python is recommended but not mandatory, as it can typically be learned while working on the exercises.
-- Some math background is helpful: basic concepts in linear algebra, probability, and statistics, such as singular value decomposition, basis, and parameter estimation.
+Prior experience with Python is strongly recommended, as students will be expected to work with programming assignments and computational exercises.
+
+A reasonable mathematical background is also expected, particularly in linear algebra, probability, and statistics.
+
+That said, students from a wide range of backgrounds have successfully completed the course in previous years. Those with less prior experience in programming or mathematics typically needed to invest additional time and effort, but were still able to succeed. 
 
 ### Course format
 
@@ -31,13 +34,14 @@ We will interleave lecture and coding. We will use Google colab as the platform 
 ## Instructors
 
 - Lab organizer: Dr. Yangchen Pan (Email: yangchen.eng.ox@gmail.com)
-- TAs: Runjia Li, Qizhen Ying.
+- Senior Demonstrator: Dr. Yosra Mekki
+- TAs: Aniq Rahman, Samuel Barnett, Yishun Lu, Yuanzhe Xu. 
 
 ## Course Policy
 
 ### Grading
 
-Submission guidelines will be sent through canvas announcement on Friday. 
+Submission guidelines will be announced here on Thursday or Friday. 
 
 **Assignments should be completed individually, however, discussion is encouraged.**
 
@@ -49,7 +53,7 @@ Submission guidelines will be sent through canvas announcement on Friday.
 
 ### Break
 
-1. Lunch break: 11:50 am - 1:30 pm
+1. Lunch break: 12:20 pm - 2:00 pm
 
 2. Weds afternoon
 
