@@ -47,7 +47,7 @@ Submission guidelines will be announced here on Thursday or Friday.
 
 ### Attendance
 
-1. Attendance is **mandatory** unless there are very special reasons. Any absences will be reported to the student office. 
+1. Attendance is **mandatory** unless there are very special reasons. Any absences will be approved by the student office. 
 
 2. At the end of each day, before leaving, please make sure that you sign the attendance sheet. 
 
