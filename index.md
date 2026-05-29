@@ -51,6 +51,8 @@ Naming rules: for example, for exercise1, you may have: firstname-lastname-ex1.i
 
 Please include the **links** to access your file in your email, so make sure your file is **authorized to view for anyone with the link**.
 
+**Submission deadline**: The submission deadline is 5:00 pm on Friday. Submissions received after this time may not be considered. If you require a late submission due to exceptional circumstances, please contact the lab organiser by email. 
+
 **Assignments should be completed individually, however, discussion is encouraged.**
 
 ### Attendance
