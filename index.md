@@ -41,7 +41,17 @@ We will interleave lecture and coding. We will use Google colab as the platform 
 
 ### Grading
 
-Submission guidelines will be available on Th/Friday. 
+Please email me a total of 11 questions (including optional questions, if you wish), with at least one question from each part (Part I: Linear Models, Part II: Optimization, and Part III: Neural Networks). You may submit more than 11 questions, but no bonus marks will be awarded; in that case, please indicate which 11 questions should be graded.
+
+Naming rules: for example, for exercise1, you may have: firstname-lastname-ex1.ipynb
+
+**Email: yangchen.eng.ox@gmail.com**. Please make sure the files are named correctly as specified above.
+
+**Email subject line**: Firstname-Lastname-CWMweek6
+
+Please include the **links** to access your file in your email, so make sure your file is **authorized to view for anyone with the link**.
+
+**Submission deadline**: The submission deadline is 5:00 pm on Friday. Submissions received after this time may not be considered. If you require a late submission due to exceptional circumstances, please contact the lab organiser by email.
 
 **Assignments should be completed individually, however, discussion is encouraged.**
 
